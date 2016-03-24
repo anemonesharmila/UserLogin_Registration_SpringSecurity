@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0.1-SNAPSHOT
+Built-By: sharmila
+Implementation-Vendor-Id: com.karki
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_60
+Main-Class: ${start-class}
+
